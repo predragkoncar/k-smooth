@@ -1,2 +1,1 @@
-# k-smooth
-K-smooth numbers
+# K-smooth numbers
